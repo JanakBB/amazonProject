@@ -1,0 +1,7 @@
+{
+    "git.enabled": true,
+    "git.ignoreLimitWarning": true,
+    "git.ignoreLegacyWarning": true,
+    "git.countBadge": "all",
+    "editor.fontSize": 16
+}
